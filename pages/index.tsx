@@ -65,14 +65,14 @@ export default function Home(): any {
                     </div>
                   </div>
                   <h1 className='mt-28 text-5xl text-center'>Finally, You Can Say No</h1>
-                  <p className='mt-4 text-lg text-center'>With zkVote's anonymous voting, you can feel free to disagree</p>
+                  <p className='mt-4 text-lg text-center'>With zkVote&apos;s anonymous voting, you can feel free to disagree</p>
                   <div className='grid grid-cols-2 flex flex-col gap-4 mt-16'>
                     <div className='flex flex-col'>
                       <img src="/images/7.png"></img>
                     </div>
                     <div className='flex flex-col'>
-                      <h1 className='mt-40 text-3xl text-left ml-4'>When You Think It's a Bad Idea...</h1>
-                      <p className='mt-4 text-lg italic text-left ml-4'>"I'm not exactly sure if we should spend half of our budget to throw a virtual music festival during bear market..."</p>
+                      <h1 className='mt-40 text-3xl text-left ml-4'>When You Think It&apos;s a Bad Idea...</h1>
+                      <p className='mt-4 text-lg italic text-left ml-4'>&quot;I&apos;m not exactly sure if we should spend half of our budget to throw a virtual music festival during bear market...&quot;</p>
 
                     </div>
 
@@ -93,14 +93,14 @@ export default function Home(): any {
                 </div>
                 <h1 className='mt-28 text-5xl text-center '>Demo</h1>
                 <div className='flex justify-center my-14'>
-                  <iframe width="800" height="479" src="https://www.youtube.com/embed/cS_YX8UHk74" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                  <iframe width="800" height="479" src="https://www.youtube.com/embed/cS_YX8UHk74" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
                 </div>
               </main>
 
             </div>
             <div className='bg-gradient-to-r from-[#33201F] via-[#3A435C] to-[#1D1D1D] pb-20'>
               <h1 className='pt-20 text-4xl font-bold text-center text-white '>Let us know any feedbacks!</h1>
-              <h1 className='mt-4 text-xl text-center text-white '>We can't improve without the feedbacks from users.</h1>
+              <h1 className='mt-4 text-xl text-center text-white '>We can&apos;t improve without the feedbacks from users.</h1>
               <h1 className='mt-2 text-xl text-center text-white '>Let us know what you want us to build!</h1>
 
 
