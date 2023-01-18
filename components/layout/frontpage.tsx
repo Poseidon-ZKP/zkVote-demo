@@ -44,6 +44,7 @@ export default function FrontPage({ children }: Props) {
 
       </div>
     </div>
+    <Footer />
 
   </>
 
