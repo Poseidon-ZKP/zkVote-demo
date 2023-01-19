@@ -6,7 +6,7 @@ export default function Home(): any {
   return (
     <>
       <Head>
-        <title>Home</title>
+        <title>zkVote</title>
 
       </Head>
       <main className=" min-h-screen bg-gradient-to-r from-[#F5F3F6] to-[#F1E1EC] pb-14">
