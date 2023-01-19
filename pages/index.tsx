@@ -30,7 +30,7 @@ export default function Home(): any {
                     </h1>
                     <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                       <div className="rounded-md shadow">
-                        <a target="_blank" rel="noreferrer" href="https://zk-vote-web-two.vercel.app/" className="w-full flex items-center justify-center py-2 px-8 border border-transparent text-base font-medium rounded-md text-white bg-black md:text-lg md:px-10"> Launch App</a>
+                        <a target="_blank" rel="noreferrer" href="https://vote.zkvote.app/" className="w-full flex items-center justify-center py-2 px-8 border border-transparent text-base font-medium rounded-md text-white bg-black md:text-lg md:px-10"> Launch App</a>
                       </div>
 
                     </div>

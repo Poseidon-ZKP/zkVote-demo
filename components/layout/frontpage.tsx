@@ -28,7 +28,7 @@ export default function FrontPage({ children }: Props) {
             <p className='font-mono text-black  pr-8'>Doc</p>
           </a>
           <div className="rounded-md shadow">
-            <a target="_blank" rel="noreferrer"  href="https://zk-vote-web-two.vercel.app/" className="w-full flex items-center justify-center py-1 px-4  border border-transparent text-base font-medium rounded-md text-white bg-black md:text-lg "> Launch App</a>
+            <a target="_blank" rel="noreferrer"  href="https://vote.zkvote.app/" className="w-full flex items-center justify-center py-1 px-4  border border-transparent text-base font-medium rounded-md text-white bg-black md:text-lg "> Launch App</a>
           </div>
 
 
