@@ -13,8 +13,6 @@ export default function Footer(props: any) {
         <div className='mr-16'>
             <p className='text-gray-400 font-bold'>PARTNERSHIP</p>
             <p className='text-gray-500 mt-4'>Poseidon ZKP</p>
-            <p className='text-gray-500 mt-2'>Manta Network</p>
-
         </div>
 
     </footer>
