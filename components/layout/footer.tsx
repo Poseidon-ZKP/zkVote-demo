@@ -7,7 +7,7 @@ export default function Footer(props: any) {
             <img src="/icons/zkvote.png" className='w-48'></img>
             <div className='flex mt-4'>
                 <img className="w-16" src="icons/pdn.png"></img>
-                <p className='text-gray-500 mt-4'>Powered by Poseidon Lab. All Rights Reserved.</p>
+                <p className='text-gray-500 mt-4'>Powered by Poseidon ZKP. All Rights Reserved.</p>
             </div>
         </div>
         <div className='mr-16'>
